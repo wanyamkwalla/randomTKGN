@@ -15,7 +15,7 @@ ul,li{list-style: none;}
 a{text-decoration: none;}
 img,a{display:block;}
 
-
+/* 
 
 @keyframes rotate{
 0%{
@@ -46,7 +46,7 @@ transform-origin:0 0 -300px;
 transform:translate3d(0,0,-300px);
 backface-visibility:hidden;
 z-index: 0;
-}
+} */
 
 .clearFix::after {
     content: '';
