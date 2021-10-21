@@ -71,12 +71,12 @@ z-index: 0;
 .test p{ font-size:.9em; }
 
 .testArea{
-    padding:2.5% 0;
+    padding:1.5% 0;
     text-align: center;
 }
 
 figure{
-    max-width: 800px;
+    max-width: 350px;
     margin:auto;
     z-index:5;
 }
